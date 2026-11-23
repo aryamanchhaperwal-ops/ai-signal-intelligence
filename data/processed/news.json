@@ -1,0 +1,66 @@
+[
+  {
+    "schemaVersion": "1.0.0",
+    "recordType": "news",
+    "source": {
+      "name": "The Verge AI",
+      "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"
+    },
+    "content": {
+      "title": "Meta Muse can do your Black Friday shopping at Walmart",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
+      "full_text": null,
+      "summary": "<figure>\n\n<img alt=\"Three screenshots of Meta Muse being set up with Walmart access.\" data-caption=\"Muse can find Walmart’s Black Friday deals so that you don’t have to. | Image: Walmart\" data-portal-copyright=\"Image: Walmart\" data-has-syndication-rights=\"1\" src=\"https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Walmart-Meta-Muse-Agent-Gateway.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100\" />\n\t<figcaption>\n\tMuse can find Walmart’s Black Friday deals so that you don’t have to. | Image: Walmart\t</figcaption>\n</figure>\n<p class=\"wp-block-paragraph\">Walmart will let Meta's Muse shop on its website on your behalf, allowing the AI agent to find and purchase Black Friday deals. Tomorrow, on Tuesday November 24th, the retail giant will roll out a live implementation of the <a href=\"https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents\">Agent Gateway it announced last month</a>, which helps AI agents find relevant products for you without sh",
+      "published_date": "2026-11-23T06:49:21-05:00"
+    },
+    "collectedAt": "2026-11-23T12:43:32.757667Z"
+  },
+  {
+    "schemaVersion": "1.0.0",
+    "recordType": "news",
+    "source": {
+      "name": "The Verge AI",
+      "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"
+    },
+    "content": {
+      "title": "We haven’t seen the last of the major tech outages",
+      "url": "https://www.theverge.com/tech/1039851/major-tech-outages",
+      "full_text": null,
+      "summary": "<figure>\n\n<img alt=\"A number of cursors point toward an unhappy face on a laptop\" data-caption=\"\" data-portal-copyright=\"Photo by Amelia Holowaty Krales / The Verge\" data-has-syndication-rights=\"1\" src=\"https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318433/akrales_220309_4977_0182.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100\" />\n\t<figcaption>\n\t\t</figcaption>\n</figure>\n<p class=\"wp-block-paragraph\">Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at <a href=\"https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda\">JPMorgan Chase</a>. But the consensus is that <a href=\"https://www.nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html\">there are more to come</a>. Director of National Intelligence Jay Clayton told <em><a href=\"https://www.cnbc.com/2026/11/22/jay-clayton-t",
+      "published_date": "2026-11-22T21:41:02-05:00"
+    },
+    "collectedAt": "2026-11-23T12:43:32.757667Z"
+  },
+  {
+    "schemaVersion": "1.0.0",
+    "recordType": "news",
+    "source": {
+      "name": "The Verge AI",
+      "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"
+    },
+    "content": {
+      "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+      "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+      "full_text": null,
+      "summary": "<figure>\n\n<img alt=\"The Binding of Isaac: Repenentance Plus thumbnail.\" data-caption=\"\" data-portal-copyright=\"Image:  Nicalis, Inc.\" data-has-syndication-rights=\"1\" src=\"https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/j7yPmbNCP4I-HD.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100\" />\n\t<figcaption>\n\t\t</figcaption>\n</figure>\n<p class=\"wp-block-paragraph\">The <em>Binding of Isaac: Repentance Plus</em> has spent the last few days getting <a href=\"https://store.steampowered.com/app/3353470/The_Binding_of_Isaac_Repentance/\">review-bombed on Steam</a> after it was discovered that a particular segment of the game <a href=\"https://www.ign.com/articles/the-binding-of-isaac-dev-removes-undisclosed-ai-generated-music-from-repentance-following-creator-response-review-bombing\">used AI music</a>. Reddit user <a href=\"https://www.reddit.com/r/bindingofisaac/comments/1y1qqut/reps_gtavi_runs_music_is_100_generated_by_suno_ai/\">ShweetsStuff</a> discovered the songs used during a <em",
+      "published_date": "2026-11-22T12:25:20-05:00"
+    },
+    "collectedAt": "2026-11-23T12:43:32.757667Z"
+  },
+  {
+    "schemaVersion": "1.0.0",
+    "recordType": "news",
+    "source": {
+      "name": "The Verge AI",
+      "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"
+    },
+    "content": {
+      "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+      "full_text": null,
+      "summary": "<figure>\n\n<img alt=\"\" data-caption=\"Anthropic went public on November 19th, 2026. | Photo: Getty Images\" data-portal-copyright=\"Photo: Getty Images\" data-has-syndication-rights=\"1\" src=\"https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305894185.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100\" />\n\t<figcaption>\n\tAnthropic went public on November 19th, 2026. | Photo: Getty Images\t</figcaption>\n</figure>\n<p class=\"wp-block-paragraph\">Anthropic mathematician Levent Alp&ouml;ge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark yet another seismic achievement for AI in mathematics and add to the <a href=\"https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution\">upheaval already unleashed by OpenAI's previous, often inelegant forays<",
+      "published_date": "2026-11-23T06:50:04-05:00"
+    },
+    "collectedAt": "2026-11-23T12:43:32.757667Z"
+  }
+]
